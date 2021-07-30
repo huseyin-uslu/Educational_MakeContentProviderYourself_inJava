@@ -1,0 +1,1 @@
+"# This project is that I've mentioned how to create a content provider on your own faster and safer. Also it was created to recall the things I've just learnt about SQLite. I really thank you Atil Samancioglu -> he's my instructor." 
